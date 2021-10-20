@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Machine learning and AI
 - 📫 How to reach me: linkedin.com/in/sjjdhashemi
 
-For the list of my projects please see sajjad-git/projects
+For the list of my projects please see sajjad-git/PROJECTS
