@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @sajjad-git
-- 👀 I’m interested in the applicatino of AI in medicine and genetics
-- 🌱 I’m currently learning Machine learning and AI
-- 📫 How to reach me: linkedin.com/in/sjjdhashemi
-
-For the list of my projects please see sajjad-git/PROJECTS
+Greetings! Thank you for visiting my GitHub profile. I'm a curious mind who is passionate about the field of Machine Learning and Deep Learning. I love exploring the endless possibilities that these fields offer and constantly strive to learn and grow. Currently, I'm delving into the fascinating world of representation learning and probabilistic learning, and looking forward to applying them to real-world problems. I'm also interested in the development of large language models capable of engaging in meaningful conversations with humans. On my page, you will find some of my projects and repositories related to ML and DL that showcase my skills and interests. Feel free to take a look and explore.
+Here is my LinkedIn profile: linkedin.com/in/sjjdhashemi Feel free to reach out!
